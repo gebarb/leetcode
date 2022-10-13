@@ -2,7 +2,7 @@
 
 ### Progress
 
-- [x] [13. Roman to Integer](https://github.com/gebarb/leetcode/blob/master/problems/roman_to_int.py)
+- [x] 13. [Roman to Integer](https://github.com/gebarb/leetcode/blob/master/problems/roman_to_int.py)
 - [x] 234. [Palindrome Linked List](https://github.com/gebarb/leetcode/blob/master/problems/linked_list_palindrome.py)
 - [x] 237. [Delete Node in a Linked List](https://github.com/gebarb/leetcode/blob/master/problems/delete_node_linked_list.c)
 - [x] 383. [Ransom Note](https://github.com/gebarb/leetcode/blob/master/problems/ransom_note.py)
