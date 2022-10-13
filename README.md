@@ -12,4 +12,4 @@
 - [x] 1337. [The K Weakest Rows in a Matrix](https://github.com/gebarb/leetcode/blob/master/problems/k_weakest_rows.ts)
 - [x] 1342. [Number of Steps to Reduce a Number to Zero](https://github.com/gebarb/leetcode/blob/master/problems/reduce_to_zero.ts)
 - [x] 1672. [Richest Customer Wealth](https://github.com/gebarb/leetcode/blob/master/problems/richest_customer.py)
-- [] ?. [A Bunch More](https://github.com/gebarb/leetcode/blob/master/problems/)
+- [ ] ?. [A Bunch More](https://github.com/gebarb/leetcode/blob/master/problems/)
