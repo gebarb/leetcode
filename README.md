@@ -3,7 +3,7 @@
 ### Progress
 
 - [x] 1. [Two Sum](https://github.com/gebarb/leetcode/blob/master/problems/two_sum.java)
-- [x] 4. [Median of Two Sorted Arrays](https://github.com/gebarb/leetcode/blob/master/problems/)
+- [x] 4. [Median of Two Sorted Arrays](https://github.com/gebarb/leetcode/blob/master/problems/median_two_sort_arr.java)
 - [x] 13. [Roman to Integer](https://github.com/gebarb/leetcode/blob/master/problems/roman_to_int.py)
 - [x] 234. [Palindrome Linked List](https://github.com/gebarb/leetcode/blob/master/problems/linked_list_palindrome.py)
 - [x] 237. [Delete Node in a Linked List](https://github.com/gebarb/leetcode/blob/master/problems/delete_node_linked_list.c)
