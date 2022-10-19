@@ -4,7 +4,9 @@
 
 - [x] 1. [Two Sum](https://github.com/gebarb/leetcode/blob/master/problems/two_sum.java)
 - [x] 2. [Add Two Numbers](https://github.com/gebarb/leetcode/blob/master/problems/add_two_num.c)
+- [x] 3. [Longest Substring Without Repeating Characters](https://github.com/gebarb/leetcode/blob/master/problems/longest_subtstring_no_repeat.ts)
 - [x] 4. [Median of Two Sorted Arrays](https://github.com/gebarb/leetcode/blob/master/problems/median_two_sort_arr.java)
+- [x] 5. [Longest Palindromic Substring](https://github.com/gebarb/leetcode/blob/master/problems/longest_palindromic_substring.py)
 - [x] 13. [Roman to Integer](https://github.com/gebarb/leetcode/blob/master/problems/roman_to_int.py)
 - [x] 38. [Count and Say](https://github.com/gebarb/leetcode/blob/master/problems/count_say.java)
 - [x] 234. [Palindrome Linked List](https://github.com/gebarb/leetcode/blob/master/problems/linked_list_palindrome.py)
