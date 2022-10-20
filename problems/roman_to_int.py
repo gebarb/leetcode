@@ -18,7 +18,7 @@ class Solution:
         for i in range(0, len(s)):
             curr = self.numerals[s[i]]
             if (i+1 < len(s)):
-                next = self.numeralsnumerals[s[i+1]]
+                next = self.numerals[s[i+1]]
                 if curr >= next:
                     ttl += curr
                 elif curr < next:

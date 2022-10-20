@@ -7,7 +7,7 @@ function lengthOfLongestSubstring(s: string): number {
     let ret: number = 0;
     for (var i: number = 0; i < n; i++) {
         let char_seen: boolean[] = new Array(26);
-        for (var j = i; j < n; j++) {
+        for (var j: number = i; j < n; j++) {
             // Seen this character before?
             if (char_seen[s.charCodeAt(j)] == true)
                 break;

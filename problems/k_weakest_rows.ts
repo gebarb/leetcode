@@ -3,8 +3,8 @@
 */
 
 function kWeakestRows(mat: number[][], k: number): number[] {
-    let soldiers = mat.map((m, i) => {
-        let ttl = m.reduce((acc, curr) => acc + curr);
+    let soldiers: number[][] = mat.map((m, i) => {
+        let ttl: number = m.reduce((acc, curr) => acc + curr);
         return [i, ttl];
     });
     soldiers.sort((a, b) => Number(a[1]) - Number(b[1]));
