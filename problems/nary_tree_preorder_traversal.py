@@ -1,4 +1,4 @@
-"""589. N-ary Tree visited_nodes Traversal"""
+"""589. N-ary Tree Preorder Traversal"""
 
 
 from typing import List
