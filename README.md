@@ -84,4 +84,5 @@
 - [x] 1672. [Richest Customer Wealth](https://github.com/gebarb/leetcode/blob/master/problems/richest_customer.py)
 - [x] 1706. [Where Will the Ball Fall](https://github.com/gebarb/leetcode/blob/master/problems/ball_fall.java)
 - [x] 1991. [Find the Middle Index in Array](https://github.com/gebarb/leetcode/blob/master/problems/pivot_index.ts)
+- [x] 2131. [Longest Palindrome by Concatenating Two Letter Words](https://github.com/gebarb/leetcode/blob/master/problems/longest_palindrome_concat_2letter_words.java)
 - [ ] #. [](https://github.com/gebarb/leetcode/blob/master/problems/)
