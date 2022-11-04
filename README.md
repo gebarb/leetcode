@@ -50,6 +50,8 @@
 - [x] 278. [First Bad Version](https://github.com/gebarb/leetcode/blob/master/problems/first_bad_version.py)
 - [x] 299. [Bulls and Cows](https://github.com/gebarb/leetcode/blob/master/problems/bulls_and_cows.py)
 - [x] 309. [Best Time to Buy and Sell Stock with Cooldown](https://github.com/gebarb/leetcode/blob/master/problems/stock_profits_cooldown.ts)
+- [x] 344. [Reverse String](https://github.com/gebarb/leetcode/blob/master/problems/reverse_string.ts)
+- [x] 345. [Reverse Vowels of a String](https://github.com/gebarb/leetcode/blob/master/problems/reverse_vowels.ts)
 - [x] 350. [Intersection of Two Arrays II](https://github.com/gebarb/leetcode/blob/master/problems/intersect_two_arss_2.java)
 - [x] 383. [Ransom Note](https://github.com/gebarb/leetcode/blob/master/problems/ransom_note.py)
 - [x] 387. [First Unique Character in a String](https://github.com/gebarb/leetcode/blob/master/problems/first_uniqe_char.ts)
