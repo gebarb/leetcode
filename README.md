@@ -1,5 +1,10 @@
 # LeetCode Problems
 
+## Badges
+
+- [Data Structures 1](https://github.com/gebarb/leetcode/blob/master/badges/Data_Structures_1.png)
+- [LeetCode 75](https://github.com/gebarb/leetcode/blob/master/badges/LeetCode_75.gif)
+
 ### Progress
 
 - [x] 1. [Two Sum](https://github.com/gebarb/leetcode/blob/master/problems/two_sum.java)
