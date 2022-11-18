@@ -2,8 +2,8 @@
 
 ## Badges
 
-- [x] [Data Structure 1](https://github.com/gebarb/leetcode/blob/master/badges/DS_1.png)
-- [x] [LeetCode 75](https://github.com/gebarb/leetcode/blob/master/badges/LeetCode_75.gif)
+- [x] [Data Structure I](https://github.com/gebarb/leetcode/blob/master/badges/DS_I.png)
+- [x] [LeetCode 75](https://github.com/gebarb/leetcode/blob/master/badges/LC_75.gif)
 - [x] [SQL](https://github.com/gebarb/leetcode/blob/master/badges/SQLI.gif)
 - [ ] [Algorithm I](https://github.com/gebarb/leetcode/blob/master/badges/)
 
