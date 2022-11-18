@@ -4,6 +4,7 @@
 
 - [Data Structures 1](https://github.com/gebarb/leetcode/blob/master/badges/Data_Structures_1.png)
 - [LeetCode 75](https://github.com/gebarb/leetcode/blob/master/badges/LeetCode_75.gif)
+- [SQL](https://github.com/gebarb/leetcode/blob/master/badges/SQLI.gif)
 
 ### Progress
 
@@ -53,6 +54,7 @@
 - [x] 167. [Two Sum II - Input Array Is Sorted](https://github.com/gebarb/leetcode/blob/master/problems/two_sum_2.java)
 - [x] 175. [Combine Two Tables](https://github.com/gebarb/leetcode/blob/master/problems/combine_two_tables.sql)
 - [x] 176. [Second Highest Salary](https://github.com/gebarb/leetcode/blob/master/problems/second_highest_salary.sql)
+- [x] 182. [Duplicate Emails](https://github.com/gebarb/leetcode/blob/master/problems/duplicate_emails.sql)
 - [x] 183. [Customers Who Never Order](https://github.com/gebarb/leetcode/blob/master/problems/stale_customers.sql)
 - [x] 188. [Best Time to Buy and Sell Stock IV](https://github.com/gebarb/leetcode/blob/master/problems/stock_profits_4.ts)
 - [x] 189. [Rotate Array](https://github.com/gebarb/leetcode/blob/master/problems/rotate_array.java)
@@ -71,6 +73,7 @@
 - [x] 235. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/gebarb/leetcode/blob/master/problems/lowest_common_ancestor_bst.py)
 - [x] 237. [Delete Node in a Linked List](https://github.com/gebarb/leetcode/blob/master/problems/delete_node_linked_list.c)
 - [x] 242. [Valid Anagram](https://github.com/gebarb/leetcode/blob/master/problems/valid_anagram.ts)
+- [ ] 263. [Ugly Number](https://github.com/gebarb/leetcode/blob/master/problems/)
 - [x] 278. [First Bad Version](https://github.com/gebarb/leetcode/blob/master/problems/first_bad_version.py)
 - [x] 283. [Move Zeroes](https://github.com/gebarb/leetcode/blob/master/problems/move_zeroes.java)
 - [x] 299. [Bulls and Cows](https://github.com/gebarb/leetcode/blob/master/problems/bulls_and_cows.py)
@@ -122,6 +125,8 @@
 - [x] 994. [Rotting Oranges](https://github.com/gebarb/leetcode/blob/master/problems/rotting_oranges.java)
 - [x] 1046. [Last Stone Weight](https://github.com/gebarb/leetcode/blob/master/problems/last_stone_weight.java)
 - [x] 1047. [Remove All Adjacent Duplicates In String](https://github.com/gebarb/leetcode/blob/master/problems/remove_adjacent_duplicates.java)
+- [x] 1050. [Actors and Directors Who Cooperated At Least Three Times](https://github.com/gebarb/leetcode/blob/master/problems/actors_and_directors.sql)
+- [x] 1084. [Sales Analysis III](https://github.com/gebarb/leetcode/blob/master/problems/sales_analysis_3.sql)
 - [x] 1141. [User Activity for the Past 30 Days I](https://github.com/gebarb/leetcode/blob/master/problems/user_activity_past_30_1.sql)
 - [x] 1148. [Article Views I](https://github.com/gebarb/leetcode/blob/master/problems/article_views_1.sql)
 - [x] 1158. [Market Analysis I](https://github.com/gebarb/leetcode/blob/master/problems/market_analysis_1.sql)
@@ -135,6 +140,7 @@
 - [x] 1527. [Patients With a Condition](https://github.com/gebarb/leetcode/blob/master/problems/patients_w_condition.sql)
 - [x] 1544. [Make The String Great](https://github.com/gebarb/leetcode/blob/master/problems/make_string_great.ts)
 - [x] 1581. [Customer Who Visited but Did Not Make Any Transactions](https://github.com/gebarb/leetcode/blob/master/problems/nonconverted_customer.sql)
+- [x] 1587. [Bank Account Summary II](https://github.com/gebarb/leetcode/blob/master/problems/bank_acc_summary_2.sql)
 - [x] 1662. [Check If Two String Arrays are Equivalent](https://github.com/gebarb/leetcode/blob/master/problems/two_string_arrs_equal.java)
 - [x] 1667. [Fix Names in a Table](https://github.com/gebarb/leetcode/blob/master/problems/fix_names.sql)
 - [x] 1693. [Daily Leads and Partners](https://github.com/gebarb/leetcode/blob/master/problems/daily_leads.sql)
