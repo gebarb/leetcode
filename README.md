@@ -2,9 +2,10 @@
 
 ## Badges
 
-- [Data Structures 1](https://github.com/gebarb/leetcode/blob/master/badges/Data_Structures_1.png)
-- [LeetCode 75](https://github.com/gebarb/leetcode/blob/master/badges/LeetCode_75.gif)
-- [SQL](https://github.com/gebarb/leetcode/blob/master/badges/SQLI.gif)
+- [x] [Data Structure 1](https://github.com/gebarb/leetcode/blob/master/badges/DS_1.png)
+- [x] [LeetCode 75](https://github.com/gebarb/leetcode/blob/master/badges/LeetCode_75.gif)
+- [x] [SQL](https://github.com/gebarb/leetcode/blob/master/badges/SQLI.gif)
+- [ ] [Algorithm I](https://github.com/gebarb/leetcode/blob/master/badges/)
 
 ### Progress
 
