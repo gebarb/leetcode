@@ -5,7 +5,7 @@
 - [x] [Data Structure I](https://github.com/gebarb/leetcode/blob/master/badges/DS_I.png)
 - [x] [LeetCode 75](https://github.com/gebarb/leetcode/blob/master/badges/LC_75.gif)
 - [x] [SQL](https://github.com/gebarb/leetcode/blob/master/badges/SQLI.gif)
-- [ ] [Algorithm I](https://github.com/gebarb/leetcode/blob/master/badges/)
+- [x] [Algorithm I](https://github.com/gebarb/leetcode/blob/master/badges/algorithm_I.png)
 
 ### Progress
 
@@ -51,7 +51,7 @@
 - [x] 121. [Best Time to Buy and Sell Stock](https://github.com/gebarb/leetcode/blob/master/problems/stock_profits.ts)
 - [x] 122. [Best Time to Buy and Sell Stock II](https://github.com/gebarb/leetcode/blob/master/problems/stock_profits_2.ts)
 - [x] 123. [Best Time to Buy and Sell Stock III](https://github.com/gebarb/leetcode/blob/master/problems/stock_profits_3.ts)
-- [ ] 136. [Single Number](https://github.com/gebarb/leetcode/blob/master/problems/)
+- [x] 136. [Single Number](https://github.com/gebarb/leetcode/blob/master/problems/single_number.java)
 - [x] 141. [Linked List Cycle](https://github.com/gebarb/leetcode/blob/master/problems/linked_list_cycle.ts)
 - [x] 142. [Linked List Cycle II](https://github.com/gebarb/leetcode/blob/master/problems/linked_list_cycle_2.ts)
 - [x] 144. [Binary Tree Preorder Traversal](https://github.com/gebarb/leetcode/blob/master/problems/binary_tree_preorder_traversal.py)
@@ -63,7 +63,7 @@
 - [x] 183. [Customers Who Never Order](https://github.com/gebarb/leetcode/blob/master/problems/stale_customers.sql)
 - [x] 188. [Best Time to Buy and Sell Stock IV](https://github.com/gebarb/leetcode/blob/master/problems/stock_profits_4.ts)
 - [x] 189. [Rotate Array](https://github.com/gebarb/leetcode/blob/master/problems/rotate_array.java)
-- [ ] 190. [Reverse Bits](https://github.com/gebarb/leetcode/blob/master/problems/)
+- [x] 190. [Reverse Bits](https://github.com/gebarb/leetcode/blob/master/problems/reverse_bits.java)
 - [x] 191. [Number of 1 Bits](https://github.com/gebarb/leetcode/blob/master/problems/number_1_bits.java)
 - [x] 196. [Delete Duplicate Emails](https://github.com/gebarb/leetcode/blob/master/problems/delete_dupe_emails.sql)
 - [x] 197. [Rising Temperature](https://github.com/gebarb/leetcode/blob/master/problems/rising_temp.sql)
@@ -85,6 +85,7 @@
 - [x] 242. [Valid Anagram](https://github.com/gebarb/leetcode/blob/master/problems/valid_anagram.ts)
 - [x] 263. [Ugly Number](https://github.com/gebarb/leetcode/blob/master/problems/ugly_number.java)
 - [x] 278. [First Bad Version](https://github.com/gebarb/leetcode/blob/master/problems/first_bad_version.py)
+- [x] 279. [Perfect Squares](https://github.com/gebarb/leetcode/blob/master/problems/perfect_squares.java)
 - [x] 283. [Move Zeroes](https://github.com/gebarb/leetcode/blob/master/problems/move_zeroes.java)
 - [x] 299. [Bulls and Cows](https://github.com/gebarb/leetcode/blob/master/problems/bulls_and_cows.py)
 - [x] 309. [Best Time to Buy and Sell Stock with Cooldown](https://github.com/gebarb/leetcode/blob/master/problems/stock_profits_cooldown.ts)
