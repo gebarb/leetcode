@@ -5,7 +5,7 @@
 class Solution {
 
   int[][] grid;
-  boolean[][] seen;
+  boolean[][] visited;
 
   public int calcArea(int r, int c) {
     // Check Boundaries & History
@@ -14,12 +14,12 @@ class Solution {
       r >= grid.length ||
       c < 0 ||
       c >= grid[0].length ||
-      seen[r][c] ||
+      visited[r][c] ||
       grid[r][c] == 0
     ) {
       return 0;
     }
-    seen[r][c] = true;
+    visited[r][c] = true;
     return (
       1 +
       calcArea(r + 1, c) +
@@ -31,7 +31,7 @@ class Solution {
 
   public int maxAreaOfIsland(int[][] grid) {
     this.grid = grid;
-    seen = new boolean[grid.length][grid[0].length];
+    visited = new boolean[grid.length][grid[0].length];
     int max_area = 0;
     for (int r = 0; r < grid.length; r++) {
       for (int c = 0; c < grid[0].length; c++) {

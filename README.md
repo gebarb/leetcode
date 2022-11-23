@@ -3,9 +3,10 @@
 ## Badges
 
 - [x] [Data Structure I](https://github.com/gebarb/leetcode/blob/master/badges/DS_I.png)
-- [x] [LeetCode 75](https://github.com/gebarb/leetcode/blob/master/badges/LC_75.gif)
-- [x] [SQL](https://github.com/gebarb/leetcode/blob/master/badges/SQLI.gif)
+- [x] [LeetCode 75 Level 1](https://github.com/gebarb/leetcode/blob/master/badges/LC_75.gif)
+- [x] [SQL I](https://github.com/gebarb/leetcode/blob/master/badges/SQLI.gif)
 - [x] [Algorithm I](https://github.com/gebarb/leetcode/blob/master/badges/algorithm_I.png)
+- [ ] [Graph Theory I](https://github.com/gebarb/leetcode/blob/master/badges/)
 
 ### Progress
 
@@ -136,6 +137,7 @@
 - [x] 976. [Largest Perimeter Triangle](https://github.com/gebarb/leetcode/blob/master/problems/lrg_perimeter_tri.py)
 - [x] 977. [Squares of a Sorted Array](https://github.com/gebarb/leetcode/blob/master/problems/squares_sorted_arr.java)
 - [x] 994. [Rotting Oranges](https://github.com/gebarb/leetcode/blob/master/problems/rotting_oranges.java)
+- [ ] 1020. [Number of Enclaves](https://github.com/gebarb/leetcode/blob/master/problems/)
 - [x] 1046. [Last Stone Weight](https://github.com/gebarb/leetcode/blob/master/problems/last_stone_weight.java)
 - [x] 1047. [Remove All Adjacent Duplicates In String](https://github.com/gebarb/leetcode/blob/master/problems/remove_adjacent_duplicates.java)
 - [x] 1050. [Actors and Directors Who Cooperated At Least Three Times](https://github.com/gebarb/leetcode/blob/master/problems/actors_and_directors.sql)
@@ -143,6 +145,7 @@
 - [x] 1141. [User Activity for the Past 30 Days I](https://github.com/gebarb/leetcode/blob/master/problems/user_activity_past_30_1.sql)
 - [x] 1148. [Article Views I](https://github.com/gebarb/leetcode/blob/master/problems/article_views_1.sql)
 - [x] 1158. [Market Analysis I](https://github.com/gebarb/leetcode/blob/master/problems/market_analysis_1.sql)
+- [x] 1254. [Number of Closed Islands](https://github.com/gebarb/leetcode/blob/master/problems/num_closed_isle.java)
 - [x] 1323. [Maximum 69 Number](https://github.com/gebarb/leetcode/blob/master/problems/max_69_sum.ts)
 - [x] 1337. [The K Weakest Rows in a Matrix](https://github.com/gebarb/leetcode/blob/master/problems/k_weakest_rows.ts)
 - [x] 1342. [Number of Steps to Reduce a Number to Zero](https://github.com/gebarb/leetcode/blob/master/problems/reduce_to_zero.ts)
@@ -165,6 +168,7 @@
 - [x] 1795. [Rearrange Products Table](https://github.com/gebarb/leetcode/blob/master/problems/rearrange_products.sql)
 - [x] 1873. [Calculate Special Bonus](https://github.com/gebarb/leetcode/blob/master/problems/calc_oddm_bonus.sql)
 - [x] 1890. [The Latest Login in 2020](https://github.com/gebarb/leetcode/blob/master/problems/latest_login.sql)
+- [ ] 1905. [Count Sub Islands](https://github.com/gebarb/leetcode/blob/master/problems/)
 - [x] 1926. [Nearest Exit from Entrance in Maze](https://github.com/gebarb/leetcode/blob/master/problems/nearest_maze_exit.java)
 - [x] 1965. [Employees With Missing Information](https://github.com/gebarb/leetcode/blob/master/problems/employees_missing_info.sql)
 - [x] 1991. [Find the Middle Index in Array](https://github.com/gebarb/leetcode/blob/master/problems/pivot_index.ts)
