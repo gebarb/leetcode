@@ -178,5 +178,7 @@
 - [x] 1926. [Nearest Exit from Entrance in Maze](https://github.com/gebarb/leetcode/blob/master/problems/nearest_maze_exit.java)
 - [x] 1965. [Employees With Missing Information](https://github.com/gebarb/leetcode/blob/master/problems/employees_missing_info.sql)
 - [x] 1991. [Find the Middle Index in Array](https://github.com/gebarb/leetcode/blob/master/problems/pivot_index.ts)
-- [x] 2131. [Longest Palindrome by Concatenating Two Letter Words](https://github.com/gebarb/leetcode/blob/master/problems/longest_palindrome_concat_2letter_words.java)
+- [x] 2131. [Longest Palindrome by Concatenating Two Letter Words](https://github.com/gebarb/leetcode/blob/master/problems/
+longest_palindrome_concat_2letter_words.java)
+- [x] 2225. [Find Players With Zero or One Losses](https://github.com/gebarb/leetcode/blob/master/problems/zero_one_loss.java)
 - [ ] #. [](https://github.com/gebarb/leetcode/blob/master/problems/)
