@@ -6,7 +6,7 @@
 - [x] [LeetCode 75 Level 1](https://github.com/gebarb/leetcode/blob/master/badges/LC_75.gif)
 - [x] [SQL I](https://github.com/gebarb/leetcode/blob/master/badges/SQLI.gif)
 - [x] [Algorithm I](https://github.com/gebarb/leetcode/blob/master/badges/algorithm_I.png)
-- [ ] [Graph Theory I](https://github.com/gebarb/leetcode/blob/master/badges/)
+- [x] [Graph Theory I](https://github.com/gebarb/leetcode/blob/master/badges/GTI.gif)
 
 ### Progress
 
@@ -134,7 +134,7 @@
 - [x] 746. [Min Cost Climbing Stairs](https://github.com/gebarb/leetcode/blob/master/problems/min_cost_climbing_stairs.c)
 - [x] 752. [Open the Lock](https://github.com/gebarb/leetcode/blob/master/problems/open_lock.java)
 - [x] 784. [Letter Case Permutation](https://github.com/gebarb/leetcode/blob/master/problems/letter_case_permutation.java)
-- [ ] 785. [Is Graph Bipartite?](https://github.com/gebarb/leetcode/blob/master/problems/)
+- [x] 785. [Is Graph Bipartite?](https://github.com/gebarb/leetcode/blob/master/problems/is_bipartite.java)
 - [x] 797. [All Paths From Source to Target](https://github.com/gebarb/leetcode/blob/master/problems/all_paths_src_tgt.java)
 - [x] 802. [Find Eventual Safe States](https://github.com/gebarb/leetcode/blob/master/problems/find_safe_states.java)
 - [x] 835. [Image Overlap](https://github.com/gebarb/leetcode/blob/master/problems/image_overlap.py)
@@ -142,7 +142,7 @@
 - [x] 844. [Backspace String Compare](https://github.com/gebarb/leetcode/blob/master/problems/backspace_string_compare.py)
 - [x] 847. [Shortest Path Visiting All Nodes](https://github.com/gebarb/leetcode/blob/master/problems/shortest_path_all_nodes.java)
 - [x] 876. [Middle of the Linked List](https://github.com/gebarb/leetcode/blob/master/problems/mid_linked_list.c)
-- [ ] 886. [Possible Bipartition](https://github.com/gebarb/leetcode/blob/master/problems/)
+- [x] 886. [Possible Bipartition](https://github.com/gebarb/leetcode/blob/master/problems/possible_bipartition.java)
 - [x] 901. [Online Stock Span](https://github.com/gebarb/leetcode/blob/master/problems/stock_spanner.java)
 - [x] 934. [Shortest Bridge](https://github.com/gebarb/leetcode/blob/master/problems/shortest_bridge.java)
 - [x] 947. [Most Stones Removed with Same Row or Column](https://github.com/gebarb/leetcode/blob/master/problems/most_stones_removed.java)
@@ -178,7 +178,7 @@
 - [x] 1557. [Minimum Number of Vertices to Reach All Nodes](https://github.com/gebarb/leetcode/blob/master/problems/min_vertices_reach_all_nodes.ts)
 - [x] 1581. [Customer Who Visited but Did Not Make Any Transactions](https://github.com/gebarb/leetcode/blob/master/problems/nonconverted_customer.sql)
 - [x] 1587. [Bank Account Summary II](https://github.com/gebarb/leetcode/blob/master/problems/bank_acc_summary_2.sql)
-- [ ] 1615. [Maximal Network Rank](https://github.com/gebarb/leetcode/blob/master/problems/)
+- [x] 1615. [Maximal Network Rank](https://github.com/gebarb/leetcode/blob/master/problems/maximal_network_rank.java)
 - [x] 1654. [Minimum Jumps to Reach Home](https://github.com/gebarb/leetcode/blob/master/problems/min_jumps_home.java)
 - [x] 1662. [Check If Two String Arrays are Equivalent](https://github.com/gebarb/leetcode/blob/master/problems/two_string_arrs_equal.java)
 - [x] 1667. [Fix Names in a Table](https://github.com/gebarb/leetcode/blob/master/problems/fix_names.sql)
