@@ -7,6 +7,7 @@
 - [x] [SQL I](https://github.com/gebarb/leetcode/blob/master/badges/SQLI.gif)
 - [x] [Algorithm I](https://github.com/gebarb/leetcode/blob/master/badges/algorithm_I.png)
 - [x] [Graph Theory I](https://github.com/gebarb/leetcode/blob/master/badges/GTI.gif)
+- [ ] [Programming Skills I](https://github.com/gebarb/leetcode/blob/master/badges/)
 
 ### Progress
 
@@ -162,6 +163,7 @@
 - [x] 1158. [Market Analysis I](https://github.com/gebarb/leetcode/blob/master/problems/market_analysis_1.sql)
 - [x] 1162. [As Far from Land as Possible](https://github.com/gebarb/leetcode/blob/master/problems/far_from_land.java)
 - [x] 1254. [Number of Closed Islands](https://github.com/gebarb/leetcode/blob/master/problems/num_closed_isle.java)
+- [ ] 1281. [Subtract the Product and Sum of Digits of an Integer](https://github.com/gebarb/leetcode/blob/master/problems/)
 - [x] 1306. [Jump Game III](https://github.com/gebarb/leetcode/blob/master/problems/jump_game.ts)
 - [x] 1319. [Number of Operations to Make Network Connected](https://github.com/gebarb/leetcode/blob/master/problems/connected_network.java)
 - [x] 1323. [Maximum 69 Number](https://github.com/gebarb/leetcode/blob/master/problems/max_69_sum.ts)
@@ -173,6 +175,8 @@
 - [x] 1466. [Reorder Routes to Make All Paths Lead to the City Zero](https://github.com/gebarb/leetcode/blob/master/problems/reorder_routes_to_zero.java)
 - [x] 1480. [Running Sum of 1d Array](https://github.com/gebarb/leetcode/blob/master/problems/running_sum_1d.ts)
 - [x] 1484. [Group Sold Products By The Date](https://github.com/gebarb/leetcode/blob/master/problems/group_products_sell_date.sql)
+- [x] 1491. [Average Salary Excluding the Minimum and Maximum Salary](https://github.com/gebarb/leetcode/blob/master/problems/avg_exclude_outliers.ts)
+- [x] 1523. [Count Odd Numbers in an Interval Range](https://github.com/gebarb/leetcode/blob/master/problems/count_odd_nums_in_range.java)
 - [x] 1527. [Patients With a Condition](https://github.com/gebarb/leetcode/blob/master/problems/patients_w_condition.sql)
 - [x] 1544. [Make The String Great](https://github.com/gebarb/leetcode/blob/master/problems/make_string_great.ts)
 - [x] 1557. [Minimum Number of Vertices to Reach All Nodes](https://github.com/gebarb/leetcode/blob/master/problems/min_vertices_reach_all_nodes.ts)
