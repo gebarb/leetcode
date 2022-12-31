@@ -4,10 +4,10 @@
 
 - [x] [Data Structure I](https://github.com/gebarb/leetcode/blob/master/badges/DS_I.png)
 - [x] [LeetCode 75 Level 1](https://github.com/gebarb/leetcode/blob/master/badges/LC_75.gif)
-- [x] [SQL I](https://github.com/gebarb/leetcode/blob/master/badges/SQLI.gif)
-- [x] [Algorithm I](https://github.com/gebarb/leetcode/blob/master/badges/algorithm_I.png)
-- [x] [Graph Theory I](https://github.com/gebarb/leetcode/blob/master/badges/GTI.gif)
-- [ ] [Programming Skills I](https://github.com/gebarb/leetcode/blob/master/badges/)
+- [x] [SQL I](https://github.com/gebarb/leetcode/blob/master/badges/SQL_I.gif)
+- [x] [Algorithm I](https://github.com/gebarb/leetcode/blob/master/badges/Algorithm_I.png)
+- [x] [Graph Theory I](https://github.com/gebarb/leetcode/blob/master/badges/GT_I.gif)
+- [x] [Programming Skills I](https://github.com/gebarb/leetcode/blob/master/badges/PS_I.gif)
 
 ### Progress
 
@@ -92,7 +92,7 @@
 - [x] 279. [Perfect Squares](https://github.com/gebarb/leetcode/blob/master/problems/perfect_squares.java)
 - [x] 283. [Move Zeroes](https://github.com/gebarb/leetcode/blob/master/problems/move_zeroes.java)
 - [x] 299. [Bulls and Cows](https://github.com/gebarb/leetcode/blob/master/problems/bulls_and_cows.py)
-- [ ] 303. [Range Sum Query - Immutable](https://github.com/gebarb/leetcode/blob/master/problems/)
+- [x] 303. [Range Sum Query - Immutable](https://github.com/gebarb/leetcode/blob/master/problems/range_sum.java)
 - [x] 309. [Best Time to Buy and Sell Stock with Cooldown](https://github.com/gebarb/leetcode/blob/master/problems/stock_profits_cooldown.ts)
 - [x] 344. [Reverse String](https://github.com/gebarb/leetcode/blob/master/problems/reverse_string.ts)
 - [x] 345. [Reverse Vowels of a String](https://github.com/gebarb/leetcode/blob/master/problems/reverse_vowels.ts)
@@ -196,7 +196,7 @@
 - [x] 1581. [Customer Who Visited but Did Not Make Any Transactions](https://github.com/gebarb/leetcode/blob/master/problems/nonconverted_customer.sql)
 - [x] 1587. [Bank Account Summary II](https://github.com/gebarb/leetcode/blob/master/problems/bank_acc_summary_2.sql)
 - [x] 1588. [Sum of All Odd Length Subarrays](https://github.com/gebarb/leetcode/blob/master/problems/sum_odd_subarrays.ts)
-- [ ] 1603. [Design Parking System](https://github.com/gebarb/leetcode/blob/master/problems/)
+- [x] 1603. [Design Parking System](https://github.com/gebarb/leetcode/blob/master/problems/parking_system.java)
 - [x] 1615. [Maximal Network Rank](https://github.com/gebarb/leetcode/blob/master/problems/maximal_network_rank.java)
 - [x] 1654. [Minimum Jumps to Reach Home](https://github.com/gebarb/leetcode/blob/master/problems/min_jumps_home.java)
 - [x] 1662. [Check If Two String Arrays are Equivalent](https://github.com/gebarb/leetcode/blob/master/problems/two_string_arrs_equal.java)
