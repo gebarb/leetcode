@@ -1,4 +1,4 @@
-"""637. Average of Levles in Binary Tree"""
+"""637. Average of Levels in Binary Tree"""
 
 from typing import List, Optional
 from collections import deque

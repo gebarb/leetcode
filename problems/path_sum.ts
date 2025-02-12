@@ -1,5 +1,5 @@
 /*
-* 112 Path targetSum
+* 112 Path Sum
 */
 
 

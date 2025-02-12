@@ -14,7 +14,7 @@ class Solution {
 
     int curr_row = 0;
     // down is false, up is true
-    boolean direction = fthalse;
+    boolean direction = false;
 
     for (char c : s.toCharArray()) {
       rows.get(curr_row).append(c);
