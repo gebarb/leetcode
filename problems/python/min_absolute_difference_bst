@@ -1,0 +1,42 @@
+"""
+530. Minimum Absolute Difference in BST
+
+Given the root of a Binary Search Tree (BST), return the minimum absolute difference between the values of any two different nodes in the tree.
+
+Constraints:
+
+The number of nodes in the tree is in the range [2, 104].
+0 <= Node.val <= 10^5
+"""
+
+from typing import Optional
+
+# Definition for a binary tree node.
+
+
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+
+class Solution:
+    def getMinimumDifference(self, root: Optional[TreeNode]) -> int:
+        # Limited by 0 <= Node.val <= 10^5
+        minimum, previous = 10**5, -10**5
+        current = root
+        stack = []
+
+        # InOrder Traversal
+        while stack or current:
+            while current:
+                stack.append(current)
+                current = current.left
+            node = stack.pop()
+            minimum = min(minimum, node.val - previous)
+
+            previous = node.val
+            current = node.right
+
+        return minimum
